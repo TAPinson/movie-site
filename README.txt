@@ -14,11 +14,6 @@ From the terminal, perforn the following steps:
 - Initialize the program by running python "entertainment_center.py"
 - Generated content will be stored in movie_website folder
 
-Usage Example:
-
-Development Setup:
-
-
 
 ### movie_website created by Travis Pinson with starter code provided by Udacity. ###
 
